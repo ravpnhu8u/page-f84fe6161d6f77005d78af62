@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zcytest.cn/sitemap.xml

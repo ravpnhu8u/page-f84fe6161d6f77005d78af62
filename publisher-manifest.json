@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4b5876ea916bada77e1df4a9",
+  "owner": "ravpnhu8u",
+  "repo": "page-f84fe6161d6f77005d78af62",
+  "title": "狗子云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f84fe6161d6f77005d78af62",
+      "a": "狗子云",
+      "b": "2027官方最新地址导航",
+      "entity": "狗子云",
+      "brand": "狗子云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b7a355457b64db5a9ec676c45b146a3e43d0a3b0abdfa539361ae0773c87e5a1",
+      "content": {
+        "primary_entity": "狗子云",
+        "keyword1": "狗子云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 各有适配版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，跟着客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "开始配置狗子云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付分别 ¥15、¥35、¥85，年付 ¥150、¥350、¥850，覆盖从 3 台到 20 台设备的同时在线需求。旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由，按设备与用量挑一档即可开始。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，几步确定适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 流量、3 台设备；旗舰版 ¥35/月含 300GB 与 5 台设备，适合多端用户。",
+          "AI_FEATURE_TEXT_2": "每月流量与在线设备数正相关，手机、平板、电脑同时使用建议按设备总量选档。",
+          "AI_FEATURE_TEXT_3": "月付灵活试跑，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长周期使用更省。",
+          "AI_FEATURE_TITLE_1": "三档套餐速览",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "先确认需求和预算，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "狗子云提供多档海外加速套餐，按设备数量与月流量划分，覆盖基础流媒体解锁、IPLC 专线与团队定制路由，配合订阅客户端完成配置。",
+          "AI_HERO_SUBTITLE": "选对套餐，连上就快",
+          "AI_HIGHLIGHT_1": "基础版¥15/月，100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850，按流量和在线设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看日常用量和设备数量，再从基础版、旗舰版、团队版中圈定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、在线设备上限与流媒体解锁范围是否匹配需求。",
+          "AI_STEP_TEXT_3": "获取订阅后，在对应客户端文档中找到导入教程，按步骤添加节点即可使用。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "狗子云加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "狗子云最低月付多少？",
+          "AI_FAQ_ANSWER_1": "基础版月付 15 元，含每月 100GB 流量与 3 台设备同时在线。年付价格 150 元，按十个月计费，适合长期轻度使用。",
+          "AI_FAQ_QUESTION_2": "多设备同时在线怎么选？",
+          "AI_FAQ_ANSWER_2": "3 台以内选基础版，5 台左右选旗舰版，超过 10 台或需要共享给团队选团队版。团队版支持 20 台设备同时在线，并含专属客户经理服务。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "IPLC 专线针对游戏加速优化，延迟表现更稳定，同时旗舰版提供全节点原生流媒体解锁与 7x24 优先工单支持，适合对实时性要求较高的使用场景。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "三档年付均按十个月费用计算。基础版年付 150 元、旗舰版 350 元、团队版 850 元，相当于每年节省两个月月付金额。",
+          "AI_FAQ_QUESTION_5": "订阅能导入哪些客户端？",
+          "AI_FAQ_ANSWER_5": "常见手机、电脑客户端可依照对应文档导入订阅链接，路由器与电视盒子需先确认支持情况。不同客户端导入步骤有差异，以所选客户端文档为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zcytest.cn",
+    "host": "zcytest.cn"
+  },
+  "file_hashes": {
+    "index.html": "d1bc41651654eafe9de2b8ccf931f18032c40b6b9606c46705945ff34910eab4",
+    "sitemap.xml": "3bbd944bf191b2f7141d28e396221af8e9fe0e2647c4dfa67cfc4a488e808bcb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "733e9b7d5f6b4e722e4bafbfb1485fce79f8e5a0e8176ca9f30ab525fb7a56f3",
+    "robots.txt": "9aa93445ccd4d0b3adc34c91b08ed2100b9ac294008de2bb3e48ff16ab8235f5",
+    "6be296528793498dedfdcfdbe4b442b7.txt": "bd1d9cb0838f1b95d0b8b1d8b70f8b2a8b2a8edb30158dd8fd894a0acfc3afd4"
+  },
+  "revision": "9052cb7ca91b12138605ab849f64dd264abb2ec22b4f811c7ac0b6a4287beb0c"
+}
